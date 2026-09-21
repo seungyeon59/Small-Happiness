@@ -1,4 +1,4 @@
-# ✨ JoyWalk (Micro-Happiness Map)
+# ✨ JoyWalk (Small Joy Map)
 
 🏆 **Winner — Best Use of API (Vultr) @ HackCMU 2026**
 
