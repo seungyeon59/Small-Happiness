@@ -1,7 +1,17 @@
 # ✨ JoyWalk (Micro-Happiness Map)
 
+> 🏆 HackCMU 해커톤에서 팀으로 진행한 프로젝트입니다. 이 레포는 [Doyoung619/Small-Happiness](https://github.com/Doyoung619/Small-Happiness)에서 fork한 버전입니다.
+
 JoyWalk는 바쁜 일상 속 이동 시간을 조금 더 즐겁게 만들어주는 **'소확행(작고 확실한 행복)' 지도 및 경로 안내 웹 애플리케이션**입니다. 
 단순히 가장 빠른 길을 안내하는 것이 아니라, 누군가 남겨둔 귀여운 강아지, 예쁜 벚꽃, 분위기 좋은 카페 등 **작은 기쁨이 있는 장소(Joy Spot)를 경유하는 산책 경로**를 제안합니다.
+
+---
+
+## 👥 Team
+
+- [@Doyoung619](https://github.com/Doyoung619)
+- [@yucheon6000](https://github.com/yucheon6000)
+- [@seungyeon59](https://github.com/seungyeon59)
 
 ---
 
