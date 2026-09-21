@@ -11,12 +11,12 @@ Instead of just guiding you along the fastest path, JoyWalk routes you past near
 
 ## 👥 Team — OdyssAI
 
-Built at HackCMU 2026. This repository is a fork of the team's original repo, maintained here by Seungyeon Baek.
+Built at HackCMU 2026. This repository is a fork of the team's original repo, maintained here by Seungyeon Back.
 
 - Doyoung Heo — [@Doyoung619](https://github.com/Doyoung619)
 - Yucheon Park — [@yucheon6000](https://github.com/yucheon6000)
 - Minki Kim
-- Seungyeon Baek — [@seungyeon59](https://github.com/seungyeon59)
+- Seungyeon Back — [@seungyeon59](https://github.com/seungyeon59)
 
 Original repository: [Doyoung619/Small-Happiness](https://github.com/Doyoung619/Small-Happiness)
 
